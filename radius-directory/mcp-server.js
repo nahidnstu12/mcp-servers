@@ -9,7 +9,7 @@ import {
 import fs from "fs/promises";
 import path from "path";
 
-const PROJECT_ROOT = "F:\\projects\\radius-directory";
+const PROJECT_ROOT = "/Users/radiustheme13/project/radius-directory";
 
 const server = new Server(
   {
